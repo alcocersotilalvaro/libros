@@ -1,0 +1,13 @@
+node_modules
+dist
+.firebase
+firebase-debug.log
+__pycache__
+*.pyc
+.venv
+.env
+drive_credentials.json
+token.json
+client_secret_*.json
+drive_map.json
+.DS_Store

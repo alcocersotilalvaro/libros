@@ -1,0 +1,9 @@
+# Dependencias opcionales del indexador (mejoran la extracción de metadatos).
+# El script funciona sin ellas usando solo los nombres de archivo.
+pypdf>=4.0.0
+EbookLib>=0.18
+
+# Para drive_sync.py — obtener los IDs de Google Drive automáticamente (visor).
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.0

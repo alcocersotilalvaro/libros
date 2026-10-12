@@ -1,0 +1,5 @@
+{
+  "_comentario": "Mapea el nombre del archivo (o su ruta relativa) al ID de Google Drive para habilitar el visor embebido. Copia este archivo como 'drive_map.json' (sin .example) y complétalo. Cómo obtener el ID: abre el archivo en drive.google.com, comparte como 'Cualquier persona con el enlace', copia el enlace https://drive.google.com/file/d/<ID_AQUI>/view",
+  "Los rios profundos - JOSE MARIA ARGUEDAS.pdf": "1AbCdEfGhIjKlMnOpQrStUvWxYz123456",
+  "filosofia/ejemplo.pdf": "1ZyXwVuTsRqPoNmLkJiHgFeDcBa987654"
+}
